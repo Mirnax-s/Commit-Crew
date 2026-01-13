@@ -1,0 +1,14 @@
+
+body{
+    background-color: aqua;
+}
+
+.header {
+
+    height: 50vh;
+    background-color: rgb(40, 123, 156);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
