@@ -1,4 +1,5 @@
 
+
 body{
     background-color: aqua;
 }
@@ -11,4 +12,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+footer{
+    height: 10vh;
+    background-color: rgb(40, 123, 156);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+body{
+    background-color: blue;
 }
